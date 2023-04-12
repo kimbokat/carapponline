@@ -1,7 +1,7 @@
 {
   "name": "carapp",
   "version": "0.1.0",
-  "homepage": "https://github.io/kimbokat/carapponline.git",
+  "homepage": "https://kimbokat.github.io/carapponline",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
