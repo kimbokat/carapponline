@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kimbokat/carapponline.git/static/css/main.0597ef04.css",
+    "main.js": "/kimbokat/carapponline.git/static/js/main.d23d8a4f.js",
+    "static/js/787.22ea9dd3.chunk.js": "/kimbokat/carapponline.git/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/kimbokat/carapponline.git/index.html",
+    "main.0597ef04.css.map": "/kimbokat/carapponline.git/static/css/main.0597ef04.css.map",
+    "main.d23d8a4f.js.map": "/kimbokat/carapponline.git/static/js/main.d23d8a4f.js.map",
+    "787.22ea9dd3.chunk.js.map": "/kimbokat/carapponline.git/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.d23d8a4f.js"
+  ]
+}
